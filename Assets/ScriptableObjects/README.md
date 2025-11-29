@@ -1,0 +1,1 @@
+This file is a placeholder to keep the folder in git. Use this folder to organize ScriptableObject assets. You can delete this file afterwards.

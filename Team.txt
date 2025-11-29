@@ -1,0 +1,8 @@
+Kryštof Žáček: 33.3 %
+Workload: art, animations, enemies, audio
+
+Alena Zahradníčková: 33.3 %
+Workload: saves, checkpoint, main menu, UI, player movement
+
+Ivan Eštvan: 33.3 %
+Workload: NPCs, quests, world layout, lights

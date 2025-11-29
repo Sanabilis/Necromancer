@@ -1,0 +1,175 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &3128165020847014524
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 3128165020847014527}
+  - component: {fileID: 3128165020847014526}
+  m_Layer: 0
+  m_Name: AudioManager
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &3128165020847014527
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 3128165020847014524}
+  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &3128165020847014526
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 3128165020847014524}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 30c84510402c61c46b47dc87be5c4e1f, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  music:
+    name: Music
+    clip: {fileID: 8300000, guid: 337bb2073767e37429673a1aac8c2fbd, type: 3}
+    loop: 1
+    volume: 0.5
+    pitch: 1
+    source: {fileID: 0}
+  ambientMusic:
+    name: Ambient Music
+    clip: {fileID: 8300000, guid: 305468626e548c24f978e40b8927f713, type: 3}
+    loop: 1
+    volume: 0
+    pitch: 1
+    source: {fileID: 0}
+  ambience:
+    name: Ambience
+    clip: {fileID: 8300000, guid: ef07d9af68a336d448b28a9a9fb92b61, type: 3}
+    loop: 0
+    volume: 0.1
+    pitch: 0.5
+    source: {fileID: 0}
+  sounds:
+  - name: BossCast0
+    clip: {fileID: 8300000, guid: c1fe328fa5b1a3b49aa5c8515334b216, type: 3}
+    loop: 0
+    volume: 1
+    pitch: 1
+    source: {fileID: 0}
+  - name: BossCast1
+    clip: {fileID: 8300000, guid: c1fe328fa5b1a3b49aa5c8515334b216, type: 3}
+    loop: 0
+    volume: 1
+    pitch: 1
+    source: {fileID: 0}
+  - name: BossCircle
+    clip: {fileID: 8300000, guid: 52cb35f9e5563314f9c6c4ae405e12ad, type: 3}
+    loop: 0
+    volume: 1
+    pitch: 1
+    source: {fileID: 0}
+  - name: BossTeleport1
+    clip: {fileID: 8300000, guid: 221521a6727db32498ec07cbf3a62faa, type: 3}
+    loop: 0
+    volume: 1
+    pitch: 1
+    source: {fileID: 0}
+  - name: BossTeleport2
+    clip: {fileID: 8300000, guid: 221521a6727db32498ec07cbf3a62faa, type: 3}
+    loop: 0
+    volume: 1
+    pitch: 1
+    source: {fileID: 0}
+  - name: SwordSwing0
+    clip: {fileID: 8300000, guid: 98f68627881d0e443adc534907f46c49, type: 3}
+    loop: 0
+    volume: 1
+    pitch: 1
+    source: {fileID: 0}
+  - name: SwordSwing1
+    clip: {fileID: 8300000, guid: 98f68627881d0e443adc534907f46c49, type: 3}
+    loop: 0
+    volume: 1
+    pitch: 1
+    source: {fileID: 0}
+  - name: SwordHitRock
+    clip: {fileID: 8300000, guid: 739e6a1172427024eaeb56400421671a, type: 3}
+    loop: 0
+    volume: 0.25
+    pitch: 1
+    source: {fileID: 0}
+  - name: SwordHitEnemy
+    clip: {fileID: 8300000, guid: f0c3967582c0c2041846be466069e4f0, type: 3}
+    loop: 0
+    volume: 0.25
+    pitch: 1
+    source: {fileID: 0}
+  - name: RockRumble
+    clip: {fileID: 8300000, guid: e7cc144885763cb479b702c6723da0e2, type: 3}
+    loop: 0
+    volume: 0.5
+    pitch: 1
+    source: {fileID: 0}
+  - name: Jump
+    clip: {fileID: 8300000, guid: 007ff369892c2bf44a178db9afa8a7a1, type: 3}
+    loop: 0
+    volume: 0.25
+    pitch: 1
+    source: {fileID: 0}
+  - name: Land
+    clip: {fileID: 8300000, guid: 3fbb0b5a62c71274a9fc940be626b463, type: 3}
+    loop: 0
+    volume: 0.25
+    pitch: 1
+    source: {fileID: 0}
+  - name: Step
+    clip: {fileID: 8300000, guid: 8745223c8dfdd234f90ce54ee6b88b96, type: 3}
+    loop: 0
+    volume: 0.25
+    pitch: 1
+    source: {fileID: 0}
+  - name: Block
+    clip: {fileID: 8300000, guid: 15302b97e85dfb94b9a1e3bfa758b67b, type: 3}
+    loop: 0
+    volume: 0.25
+    pitch: 1
+    source: {fileID: 0}
+  - name: Heal
+    clip: {fileID: 8300000, guid: 7f17c3d7987171e439420c94f5159cb7, type: 3}
+    loop: 0
+    volume: 0.5
+    pitch: 1
+    source: {fileID: 0}
+  - name: Crash
+    clip: {fileID: 8300000, guid: a4d07ed9c6d93de40b7606800c5676da, type: 3}
+    loop: 0
+    volume: 0.25
+    pitch: 0.5
+    source: {fileID: 0}
+  - name: Damaged
+    clip: {fileID: 8300000, guid: 496cada9e2f777649a70649cb259eb07, type: 3}
+    loop: 0
+    volume: 0.5
+    pitch: 1.2
+    source: {fileID: 0}
+  - name: SoulCast
+    clip: {fileID: 8300000, guid: c1fe328fa5b1a3b49aa5c8515334b216, type: 3}
+    loop: 0
+    volume: 0.5
+    pitch: 1
+    source: {fileID: 0}

@@ -1,0 +1,76 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Ground
+  - PlayerAttack
+  - Enemy
+  - EnemyAttack
+  - NonTargetable
+  - Cinemachine
+  - Destructible
+  - LostSoul
+  - Boss
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - Ground
+  - Player
+  - PlayerAttack
+  - Enemy
+  - EnemyAttack
+  - NPC
+  - Interactable
+  - ParticleCollider
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Background
+    uniqueID: 3187294453
+    locked: 0
+  - name: Objects
+    uniqueID: 3721085141
+    locked: 0
+  - name: NPCs
+    uniqueID: 190475879
+    locked: 0
+  - name: Enemies
+    uniqueID: 575968931
+    locked: 0
+  - name: Player
+    uniqueID: 2818129641
+    locked: 0
+  - name: Ground
+    uniqueID: 3125013807
+    locked: 0
+  - name: Effects
+    uniqueID: 1424402849
+    locked: 0
+  - name: Foreground
+    uniqueID: 1148050957
+    locked: 0

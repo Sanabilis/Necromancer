@@ -1,0 +1,146 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!687078895 &4343727234628468602
+SpriteAtlas:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: Tiles
+  m_EditorData:
+    serializedVersion: 2
+    textureSettings:
+      serializedVersion: 2
+      anisoLevel: 1
+      compressionQuality: 50
+      maxTextureSize: 2048
+      textureCompression: 0
+      filterMode: 0
+      generateMipMaps: 0
+      readable: 0
+      crunchedCompression: 0
+      sRGB: 1
+    platformSettings:
+    - serializedVersion: 3
+      m_BuildTarget: DefaultTexturePlatform
+      m_MaxTextureSize: 2048
+      m_ResizeAlgorithm: 0
+      m_TextureFormat: -1
+      m_TextureCompression: 0
+      m_CompressionQuality: 50
+      m_CrunchedCompression: 0
+      m_AllowsAlphaSplitting: 0
+      m_Overridden: 0
+      m_AndroidETC2FallbackOverride: 0
+      m_ForceMaximumCompressionQuality_BC6H_BC7: 0
+    packingSettings:
+      serializedVersion: 2
+      padding: 4
+      blockOffset: 1
+      allowAlphaSplitting: 0
+      enableRotation: 1
+      enableTightPacking: 1
+    variantMultiplier: 1
+    packables:
+    - {fileID: 2800000, guid: 55f3995f8f1c6294e9b307d20819b864, type: 3}
+    totalSpriteSurfaceArea: 48128
+    bindAsDefault: 1
+  m_MasterAtlas: {fileID: 0}
+  m_PackedSprites:
+  - {fileID: 178514870070544691, guid: 55f3995f8f1c6294e9b307d20819b864, type: 3}
+  - {fileID: -6098384724528315585, guid: 55f3995f8f1c6294e9b307d20819b864, type: 3}
+  - {fileID: -6621906559262388068, guid: 55f3995f8f1c6294e9b307d20819b864, type: 3}
+  - {fileID: -2949278561725330349, guid: 55f3995f8f1c6294e9b307d20819b864, type: 3}
+  - {fileID: -4482128295019817747, guid: 55f3995f8f1c6294e9b307d20819b864, type: 3}
+  - {fileID: -8578322394982566844, guid: 55f3995f8f1c6294e9b307d20819b864, type: 3}
+  - {fileID: -2269824934566064147, guid: 55f3995f8f1c6294e9b307d20819b864, type: 3}
+  - {fileID: -1572658443301632345, guid: 55f3995f8f1c6294e9b307d20819b864, type: 3}
+  - {fileID: 2877817357698986552, guid: 55f3995f8f1c6294e9b307d20819b864, type: 3}
+  - {fileID: -913805714872953396, guid: 55f3995f8f1c6294e9b307d20819b864, type: 3}
+  - {fileID: 3159497097814993860, guid: 55f3995f8f1c6294e9b307d20819b864, type: 3}
+  - {fileID: -8850114009361028415, guid: 55f3995f8f1c6294e9b307d20819b864, type: 3}
+  - {fileID: 6774810583874060981, guid: 55f3995f8f1c6294e9b307d20819b864, type: 3}
+  - {fileID: 7370231698981917251, guid: 55f3995f8f1c6294e9b307d20819b864, type: 3}
+  - {fileID: -5838052707226154483, guid: 55f3995f8f1c6294e9b307d20819b864, type: 3}
+  - {fileID: 7203116106309860180, guid: 55f3995f8f1c6294e9b307d20819b864, type: 3}
+  - {fileID: 6319316577868785586, guid: 55f3995f8f1c6294e9b307d20819b864, type: 3}
+  - {fileID: -314916119342587057, guid: 55f3995f8f1c6294e9b307d20819b864, type: 3}
+  - {fileID: -7125864827427200671, guid: 55f3995f8f1c6294e9b307d20819b864, type: 3}
+  - {fileID: -6013800768334334382, guid: 55f3995f8f1c6294e9b307d20819b864, type: 3}
+  - {fileID: 9179728939897823850, guid: 55f3995f8f1c6294e9b307d20819b864, type: 3}
+  - {fileID: 8503666662152521608, guid: 55f3995f8f1c6294e9b307d20819b864, type: 3}
+  - {fileID: -160826756810931338, guid: 55f3995f8f1c6294e9b307d20819b864, type: 3}
+  - {fileID: 1368140192633139746, guid: 55f3995f8f1c6294e9b307d20819b864, type: 3}
+  - {fileID: 1820215210545673169, guid: 55f3995f8f1c6294e9b307d20819b864, type: 3}
+  - {fileID: -2865848029350597263, guid: 55f3995f8f1c6294e9b307d20819b864, type: 3}
+  - {fileID: -3990387077786985026, guid: 55f3995f8f1c6294e9b307d20819b864, type: 3}
+  - {fileID: 8760294951198378559, guid: 55f3995f8f1c6294e9b307d20819b864, type: 3}
+  - {fileID: 7800116034268446766, guid: 55f3995f8f1c6294e9b307d20819b864, type: 3}
+  - {fileID: 5511151030456846751, guid: 55f3995f8f1c6294e9b307d20819b864, type: 3}
+  - {fileID: -2362172315587930884, guid: 55f3995f8f1c6294e9b307d20819b864, type: 3}
+  - {fileID: 6281969170336455174, guid: 55f3995f8f1c6294e9b307d20819b864, type: 3}
+  - {fileID: -8400608018115529215, guid: 55f3995f8f1c6294e9b307d20819b864, type: 3}
+  - {fileID: 4427034662734293498, guid: 55f3995f8f1c6294e9b307d20819b864, type: 3}
+  - {fileID: -2050223552737394800, guid: 55f3995f8f1c6294e9b307d20819b864, type: 3}
+  - {fileID: 6599575281240086149, guid: 55f3995f8f1c6294e9b307d20819b864, type: 3}
+  - {fileID: -8973380785445004114, guid: 55f3995f8f1c6294e9b307d20819b864, type: 3}
+  - {fileID: -5027161827245242390, guid: 55f3995f8f1c6294e9b307d20819b864, type: 3}
+  - {fileID: 1837486408356042050, guid: 55f3995f8f1c6294e9b307d20819b864, type: 3}
+  - {fileID: 4272056316066095469, guid: 55f3995f8f1c6294e9b307d20819b864, type: 3}
+  - {fileID: 5069004073474921551, guid: 55f3995f8f1c6294e9b307d20819b864, type: 3}
+  - {fileID: 8174329077100506713, guid: 55f3995f8f1c6294e9b307d20819b864, type: 3}
+  - {fileID: 8231499150188796702, guid: 55f3995f8f1c6294e9b307d20819b864, type: 3}
+  - {fileID: 9114446778682306746, guid: 55f3995f8f1c6294e9b307d20819b864, type: 3}
+  - {fileID: -3146241157019362862, guid: 55f3995f8f1c6294e9b307d20819b864, type: 3}
+  - {fileID: -6121412496335455702, guid: 55f3995f8f1c6294e9b307d20819b864, type: 3}
+  - {fileID: 5910172966994096145, guid: 55f3995f8f1c6294e9b307d20819b864, type: 3}
+  m_PackedSpriteNamesToIndex:
+  - TilesetRock_3
+  - TilesetRock_2
+  - TilesetRock_1
+  - TilesetRock_0
+  - TilesetRock_7
+  - TilesetRock_6
+  - TilesetRock_5
+  - TilesetRock_4
+  - TilesetRock_9
+  - TilesetRock_8
+  - TilesetRock_30
+  - TilesetRock_31
+  - TilesetRock_32
+  - TilesetRock_33
+  - TilesetRock_23
+  - TilesetRock_34
+  - TilesetRock_22
+  - TilesetRock_35
+  - TilesetRock_21
+  - TilesetRock_45
+  - TilesetRock_36
+  - TilesetRock_20
+  - TilesetRock_16
+  - TilesetRock_44
+  - TilesetRock_37
+  - TilesetRock_27
+  - TilesetRock_17
+  - TilesetRock_38
+  - TilesetRock_26
+  - TilesetRock_14
+  - TilesetRock_46
+  - TilesetRock_39
+  - TilesetRock_25
+  - TilesetRock_15
+  - TilesetRock_41
+  - TilesetRock_24
+  - TilesetRock_12
+  - TilesetRock_40
+  - TilesetRock_13
+  - TilesetRock_43
+  - TilesetRock_10
+  - TilesetRock_42
+  - TilesetRock_29
+  - TilesetRock_11
+  - TilesetRock_28
+  - TilesetRock_18
+  - TilesetRock_19
+  m_Tag: Tiles
+  m_IsVariant: 0
